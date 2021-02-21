@@ -44,7 +44,7 @@ inteiros:
 		rune = int32
 
 	uint
-		uint8 uint16 uint 32 uint64
+		uint8 uint16 uint32 uint64
 		byte = uint8
 
 float
